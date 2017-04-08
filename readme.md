@@ -1,6 +1,6 @@
 ## Hadoop-- Page Rank with dead-end data
 
-![alt tag](equation.PNG)
+![alt tag](equation.PNG)  
 With dead-ends data, it needs to be normalized.  
 
 rjnew = normalization of rj  
@@ -20,7 +20,9 @@ Input: line
 > 1   2  
 > 1   3  
 > 2   3  
+
 Output:Node (pageNode|PageRank|outlink)  
+
 > 1|1/N|2,3  
 > 2|1/N|3  
 
