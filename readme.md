@@ -1,4 +1,4 @@
-## Hadoop-- Page Rank with dead-end data
+## Hadoop - Page Rank with dead-end data
 
 ![alt tag](equation.PNG)  
 With dead-ends data, it needs to be normalized.  
